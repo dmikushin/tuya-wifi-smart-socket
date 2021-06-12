@@ -1,5 +1,14 @@
 # TUYA WiFi Smart Socket
 
+<img width="400px" src="figures/Product.webp">
+
+<img width="100px" src="figures/IMG_0579.jpg">
+
+<img width="400px" src="figures/IMG_0580.JPG">
+
+<img width="400px" src="figures/IMG_0581.JPG">
+
+<img width="400px" src="figures/IMG_0582.JPG">
 
 
 ## UART Logs
